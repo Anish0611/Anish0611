@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Anish0611
-- 👀 I’m interested in being a devloper
+- 👀 I’m interested in being a developer
 - 🌱 I’m currently learning in Msrit Institute of Technology
-- 💞️ I’m looking to collaborate on my projects and explore other works and more stuffs
-- 📫 How to reach me anishrkulkarni06@gmail.com
+-     pursuing studies in Information science and engineering
+- 📫 Email:-anishrkulkarni06@gmail.com
+
+
 
 <!---
 Anish0611/Anish0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
