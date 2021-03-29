@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anish0611
+- 👋 Hi, I’m Anish
 - 👀 I’m interested in being a developer
 - 🌱 I’m currently learning in Msrit Institute of Technology
 -     pursuing studies in Information science and engineering
